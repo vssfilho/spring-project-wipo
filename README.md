@@ -2,7 +2,7 @@
 
 # Tecnologias
 
-Pequeno projeto maven com multiplos módulos, utiliza como principais técnologias:
+Pequeno projeto maven com multiplos módulos, as principais técnologias que utilizei foram:
 
 - Spring RESTfull;
 - Spring Client;
