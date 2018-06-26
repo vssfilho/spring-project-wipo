@@ -19,9 +19,9 @@ Pequeno projeto maven com multiplos módulos, utiliza como principais técnologi
 
 Buscar dados de uma patente no site https://patentscope.wipo.int/, cadastrar a informação no banco de dados para que possam ser utilizados posteriormente.
 
-#resources
+# resources
 
 A aplicação possui dois resources que podem ser acessados pelas seguintes urls:
 
-Servidor REST: http://localhost:8080/wipo/rest/
-Servidor JSP: http://localhost:8080/site/
+- Servidor REST: http://localhost:8080/wipo/rest/
+- Servidor JSP: http://localhost:8080/site/
