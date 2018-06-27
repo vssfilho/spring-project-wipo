@@ -1,0 +1,12 @@
+D:\WORKSPACE\spring-project-wipo\wipo\src\main\java\com\java\wipo\dao\PatenteDao.java
+D:\WORKSPACE\spring-project-wipo\wipo\src\main\java\com\java\wipo\model\dto\TituloDto.java
+D:\WORKSPACE\spring-project-wipo\wipo\src\main\java\com\java\wipo\converter\TituloConverter.java
+D:\WORKSPACE\spring-project-wipo\wipo\src\main\java\com\java\wipo\model\dto\RequerenteDto.java
+D:\WORKSPACE\spring-project-wipo\wipo\src\main\java\com\java\wipo\client\ClientRestWipo.java
+D:\WORKSPACE\spring-project-wipo\wipo\src\main\java\com\java\wipo\model\Patente.java
+D:\WORKSPACE\spring-project-wipo\wipo\src\main\java\com\java\wipo\model\Requerente.java
+D:\WORKSPACE\spring-project-wipo\wipo\src\main\java\com\java\wipo\model\Titulo.java
+D:\WORKSPACE\spring-project-wipo\wipo\src\main\java\com\java\wipo\service\PatenteService.java
+D:\WORKSPACE\spring-project-wipo\wipo\src\main\java\com\java\wipo\converter\PatenteConverter.java
+D:\WORKSPACE\spring-project-wipo\wipo\src\main\java\com\java\wipo\converter\RequerenteConverter.java
+D:\WORKSPACE\spring-project-wipo\wipo\src\main\java\com\java\wipo\model\dto\PatenteDto.java
