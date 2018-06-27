@@ -6,7 +6,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = "com.java") // package que irá ser utilizado no rest
+@ComponentScan(basePackages = "com.java.rest") // package que irá ser utilizado no rest
 public class ApplicationConfiguration {
 
 }

@@ -11,9 +11,9 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.java.rest.util.ResponseBuilder;
 import com.java.wipo.model.dto.PatenteDto;
 import com.java.wipo.service.PatenteService;
-import com.java.wipo.util.ResponseBuilder;
 
 @RestController
 @RequestMapping("/patente")

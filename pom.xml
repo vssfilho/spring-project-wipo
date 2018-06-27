@@ -13,6 +13,8 @@
   <modules>
     <module>site</module>
     <module>rest-api</module>
+    <module>commons</module>
+    <module>wipo</module>
   </modules>
 
   <properties>

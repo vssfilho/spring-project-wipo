@@ -1,3 +1,4 @@
-D:\WORKSPACE\consulta-wipo\rest-api\src\main\java\com\java\interceptors\ApplicationConfiguration.java
-D:\WORKSPACE\consulta-wipo\rest-api\src\main\java\com\java\services\wipo\PatenteScopeResources.java
-D:\WORKSPACE\consulta-wipo\rest-api\src\main\java\com\java\interceptors\ApplicationInitializer.java
+D:\WORKSPACE\spring-project-wipo\rest-api\src\main\java\com\java\interceptors\ApplicationInitializer.java
+D:\WORKSPACE\spring-project-wipo\rest-api\src\main\java\com\java\rest\resources\wipo\PatenteScopeResources.java
+D:\WORKSPACE\spring-project-wipo\rest-api\src\main\java\com\java\interceptors\ApplicationConfiguration.java
+D:\WORKSPACE\spring-project-wipo\rest-api\src\main\java\com\java\rest\util\ResponseBuilder.java
