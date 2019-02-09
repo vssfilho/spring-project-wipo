@@ -1,0 +1,12 @@
+com\java\wipo\model\Requerente.class
+com\java\wipo\model\Patente.class
+com\java\wipo\model\dto\PatenteDto.class
+com\java\wipo\client\ClientRestWipo.class
+com\java\wipo\converter\TituloConverter.class
+com\java\wipo\service\PatenteService.class
+com\java\wipo\converter\RequerenteConverter.class
+com\java\wipo\model\dto\RequerenteDto.class
+com\java\wipo\model\dto\TituloDto.class
+com\java\wipo\model\Titulo.class
+com\java\wipo\converter\PatenteConverter.class
+com\java\wipo\dao\PatenteDao.class
